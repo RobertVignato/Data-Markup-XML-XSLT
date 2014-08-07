@@ -1,0 +1,614 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resume lastUpdated="May 2012">
+<!--
+    <logo>Graphics/DotNet.jpg</logo>-->
+    <logo>Graphics/WP_20140116_005_CroptSMcc.jpg</logo>
+    <title>Robert Vignato</title>
+    <description>Programmer / Developer</description>
+    <downloadMSWordVersion url="Documents/Robert_Vignato_Resume.docx" text="Download MS Word version" />
+
+    <personalInfo>
+        <phone>904-599-3849</phone>
+        <email>Rob.Vig@Gmail.com</email>
+        <location>North Florida</location>
+    </personalInfo>
+    
+    
+    <projects>
+
+        <project>
+            <title>WinstonFurniture.com</title>
+            <demo url="http://www.WinstonFurniture.com" text="Website" />
+            <position>Architect, Developer, Database Design</position>
+            <client url="http://www.BJI.com" text="Brown Jordan International" />
+            <date>2011</date>
+            <technologies>C#, ASP.NET, ADO.NET, SQL Server, Azure BLOB Storage, URL Routing, SEO, Javascript</technologies>
+            <methodologies>Relational, nTier</methodologies>
+            <description>
+                WinstonFurniture.com and WinstonContract.com are product catalog website that display data and images supplied by a proprietary backend Product Data Management system. This website features a cookie based "Product Bookmarking" system which allows visitors to mark product for future visits and an "Email" function which allow visitor to send product detail pages to friends and family. 
+            </description>
+            <screenshots text="Screenshots">
+                <screenshot lg="Screenshots/WINRET_Default.jpg" sm="Screenshots/WINRET_Default_H150.jpg"/>
+                <screenshot lg="Screenshots/WINRET_FabsAndFins.jpg" sm="Screenshots/WINRET_FabsAndFins_H150.jpg"/>
+                <screenshot lg="Screenshots/WINRET_CollectionDetails.jpg" sm="Screenshots/WINRET_CollectionDetails_H150.jpg"/>
+                <screenshot lg="Screenshots/WINRET_ProdDetails.jpg" sm="Screenshots/WINRET_ProdDetails_H150.jpg"/>
+                <screenshot lg="Screenshots/WINRET_MyPatio.jpg" sm="Screenshots/WINRET_MyPatio_H150.jpg"/>
+            </screenshots>
+        </project>
+
+        <project>
+            <title>Product Data Administrator</title>
+            <demo url="" text="" />
+            <position>Architect, Developer, Database Design, User Interface &amp; Graphic Designer</position>
+            <client url="http://www.BJI.com" text="Brown Jordan Internation" />
+            <date>2010</date>
+            <technologies>C#, ASP.NET, ADO.NET, Javascript, SQL Server, Azure BLOB Storage</technologies>
+            <methodologies>Relational, nTier</methodologies>
+            <description>
+                The Product Data Administrator is the backend administration tool for Winston Furniture websites. The PDA is able to serve multiple concurrent client websites simultaneously. Features include a Website copy utility allowing you to configure a website and the duplicate your work for another instance of a website. And, "QR Code redirection" which allows URL redirection for printed QR Codes.
+            </description>
+            <screenshots text="Screenshots">
+                <screenshot lg="Screenshots/PDA_Manage_Data.jpg" sm="Screenshots/PDA_Manage_Data_H150.jpg"/>
+                <screenshot lg="Screenshots/PDA_Manage_ProductProfiles.jpg" sm="Screenshots/PDA_Manage_ProductProfiles_H150.jpg"/>
+                <screenshot lg="Screenshots/PDA_Manage_EditData.jpg" sm="Screenshots/PDA_Manage_EditData_H150.jpg"/>
+                <screenshot lg="Screenshots/PDA_Associate.jpg" sm="Screenshots/PDA_Associate_H150.jpg"/>
+                <screenshot lg="Screenshots/PDA_ManagerUserAccts.jpg" sm="Screenshots/PDA_ManagerUserAccts_H150.jpg"/>
+                <screenshot lg="Screenshots/PDA_QRCodeRedirect.jpg" sm="Screenshots/PDA_QRCodeRedirect_H150.jpg"/>
+            </screenshots>
+        </project>
+
+        <project>
+        <title>Artist2Dealer</title>
+        <demo url="http://www.Artist2Dealer.com" text="Website" />
+        <position>Architect, Developer, Database Design</position>
+        <client url="http://www.Artist2Dealer.com" text="Artist2Dealer" />
+        <date>2012</date>
+        <technologies>C#, ASP.NET, ADO.NET, Azure (SQL, Queue, BLOB, Worker Roles), URL Routing, Javascript</technologies>
+        <methodologies>Relational, nTier</methodologies>
+        <description>
+          Artist2Dealer.com is a Business to Business (B2B) for Art industry professional. 
+		  This website features a matchmaking algorithm, saved searches, match email alert job processing and a "Following" feature all of which 
+          enabled Artists a Dealers / Art Gallery owners to connect and do business.
+        </description>
+        <screenshots text="Screenshots">
+          <screenshot lg="Screenshots/A2D_Splash.png" sm="Screenshots/A2D_Splash_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_Account.png" sm="Screenshots/A2D_Account_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_Artist_Artwork.png" sm="Screenshots/A2D_Artist_Artwork_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_Artist_Details.png" sm="Screenshots/A2D_Artist_Details_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_Artist_Match_01.png" sm="Screenshots/A2D_Artist_Match_01_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_Artist_Search_01.png" sm="Screenshots/A2D_Artist_Search_01_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_Dealer_Search_01.png" sm="Screenshots/A2D_Dealer_Search_01_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_Home.png" sm="Screenshots/A2D_Home_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_MyAccount_Following.png" sm="Screenshots/A2D_MyAccount_Following_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_MyAccount_ManageArtwork.png" sm="Screenshots/A2D_MyAccount_ManageArtwork_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_MyAccount_Profile.png" sm="Screenshots/A2D_MyAccount_Profile_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_MyAccount_SavedSearches.png" sm="Screenshots/A2D_MyAccount_SavedSearches_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_Resources.png" sm="Screenshots/A2D_Resources_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_SignUp.png" sm="Screenshots/A2D_SignUp_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_SignUp_Artists.png" sm="Screenshots/A2D_SignUp_Artists_H150.gif"/>
+          <screenshot lg="Screenshots/A2D_Socialize.png" sm="Screenshots/A2D_Socialize_H150.gif"/>
+        </screenshots>
+      </project>
+
+        <project>
+            <title>Jumbuh.com</title>
+            <demo url="" text="" />
+            <position>Architect, Developer, Database Design, User Interface &amp; Graphic Designer</position>
+            <client url="http://www.Jumbuh.com" text="Jumbuh LLC." />
+            <date>2011</date>
+            <technologies>C#, ASP.NET, ADO.NET, Javascript, Azure, SQL Azure, No SQL Azure BLOB and Table Storage</technologies>
+            <methodologies>Relational, NoSQL, nTier</methodologies>
+            <description>
+                Interest Networking Website. Jumbuh is a twist on Facebook in that it allows a single account to maintain one or more identities. For instance, one identity for work and co-workers, another identity for friends, another for family and so on. I wrote Jumbuh in C# with ASP.NET using Webforms to run in and use Windows Azure, SQL Azure and Azure Storage.
+            </description>
+            <screenshots text="Screenshots">
+                <screenshot lg="Screenshots/JUM_Home.jpg" sm="Screenshots/JUM_Home_H150.jpg"/>
+                <screenshot lg="Screenshots/JUM_SignUp.jpg" sm="Screenshots/JUM_SignUp_H150.jpg"/>
+                <screenshot lg="Screenshots/JUM_MyIdentities.jpg" sm="Screenshots/JUM_MyIdentities_H150.jpg"/>
+                <screenshot lg="Screenshots/JUM_MyInterests.jpg" sm="Screenshots/JUM_MyInterests_H150.jpg"/>
+                <screenshot lg="Screenshots/JUM_Board.jpg" sm="Screenshots/JUM_Board_H150.jpg"/>
+                <screenshot lg="Screenshots/JUM_Gallery.jpg" sm="Screenshots/JUM_Gallery_H150.jpg"/>
+                <screenshot lg="Screenshots/JUM_Events.jpg" sm="Screenshots/JUM_Events_H150.jpg"/>
+                <screenshot lg="Screenshots/JUM_CreateEvent.jpg" sm="Screenshots/JUM_CreateEvent_H150.jpg"/>
+            </screenshots>
+        </project>
+
+        <project>
+            <title>CRMagic (Customer Relations Management)</title>
+            <demo url="" text="" />
+            <position>Architect, Developer, User Interface &amp; Graphic Designer</position>
+            <client url="http://www.BJI.com" text="Brown Jordan Internation" />
+            <date>2010</date>
+            <technologies>C#, ASP.NET, ADO.NET, SQL Server</technologies>
+            <methodologies>Relational, nTier</methodologies>
+            <description>
+                CRMagic is an online Customer Relations Management application that tracks the status of customer support calls. Features include a product part replacement pricing data with invoicing capabilities. Written in C# and ASP.NET with SQL Server.
+            </description>
+            <screenshots text="Screenshots">
+                <screenshot lg="Screenshots/CRM_Home.jpg" sm="Screenshots/CRM_Home_H150.jpg"/>
+                <screenshot lg="Screenshots/CRM_New_Call.jpg" sm="Screenshots/CRM_New_Call_H150.jpg"/>
+                <screenshot lg="Screenshots/CRM_CustomerDetails.jpg" sm="Screenshots/CRM_CustomerDetails_H150.jpg"/>
+                <screenshot lg="Screenshots/CRM_CreateNewEvent.jpg" sm="Screenshots/CRM_CreateNewEvent_H150.jpg"/>
+                <screenshot lg="Screenshots/CRM_QuotePurchase.jpg" sm="Screenshots/CRM_QuotePurchase_H150.jpg"/>
+                <screenshot lg="Screenshots/CRM_AppConfig.jpg" sm="Screenshots/CRM_AppConfig_H150.jpg"/>
+            </screenshots>
+        </project>
+
+      <project>
+        <title>Muny.TV</title>
+        <demo url="http://www.muny.tv" text="Website" />
+        <position>Architect, Developer, User Interface &amp; Graphic Designer</position>
+        <client url="" text="" />
+        <date>2012</date>
+        <technologies>C#, ASP.NET, ADO.NET, Azure (SQL, Queue, BLOB, Worker Roles), URL Routing, Javascript</technologies>
+        <methodologies>Relational, nTier</methodologies>
+        <description>
+          Muny.tv seeks to re-work the revenue sharing model of YouTube. The Site is finished but waiting on Azure Media Services to mature. 
+        </description>
+        <screenshots text="Screenshots">
+          <screenshot lg="Screenshots/Muny/Account_Balance_Client.jpg" sm="Screenshots/Muny/150/Account_Balance_Client.jpg"/>
+          <screenshot lg="Screenshots/Muny/Account_Balance_Owner.jpg" sm="Screenshots/Muny/150/Account_Balance_Owner.jpg"/>
+          <screenshot lg="Screenshots/Muny/Artwork_Gallery.jpg" sm="Screenshots/Muny/150/Artwork_Gallery.jpg"/>
+          <screenshot lg="Screenshots/Muny/CreateAd.jpg" sm="Screenshots/Muny/150/CreateAd.jpg"/>
+          <screenshot lg="Screenshots/Muny/HomePage.jpg" sm="Screenshots/Muny/150/HomePage.jpg"/>
+          <screenshot lg="Screenshots/Muny/MyAccounts.jpg" sm="Screenshots/Muny/150/MyAccounts.jpg"/>
+          <screenshot lg="Screenshots/Muny/MyVideos.jpg" sm="Screenshots/Muny/150/MyVideos.jpg"/>
+          <screenshot lg="Screenshots/Muny/PlaceBid.jpg" sm="Screenshots/Muny/150/PlaceBid.jpg"/>
+          <screenshot lg="Screenshots/Muny/PlaceBidSearch.jpg" sm="Screenshots/Muny/150/PlaceBidSearch.jpg"/>
+          <screenshot lg="Screenshots/Muny/Recovery.jpg" sm="Screenshots/Muny/150/Recovery.jpg"/>
+          <screenshot lg="Screenshots/Muny/SearchResults.jpg" sm="Screenshots/Muny/150/SearchResults.jpg"/>
+          <screenshot lg="Screenshots/Muny/SignUp.jpg" sm="Screenshots/Muny/150/SignUp.jpg"/>
+          <screenshot lg="Screenshots/Muny/Upload_Video_Owner.jpg" sm="Screenshots/Muny/150/Upload_Video_Owner.jpg"/>
+          <screenshot lg="Screenshots/Muny/VideoPage.jpg" sm="Screenshots/Muny/150/VideoPage.jpg"/>
+        </screenshots>
+      </project>
+      
+        <project>
+            <title>Product Coupon Emailer</title>
+            <demo url="" text="" />
+            <position>Architect, Database Design, Developer</position>
+            <client url="http://www.BJI.com" text="Brown Jordan Internation" />
+            <date>2012</date>
+            <technologies>C#, ASP.NET, ADO.NET, SQL Server</technologies>
+            <methodologies>Relational, nTier</methodologies>
+            <description>
+                Website visitors may request a product rebate by successfully filling out a form and submitting the requested information. Upon successful submission a confirmation email containing the rebate code is sent to the submitted email address and another email is sent to the BJI Marketing department. Upon successful completion of the web form, an entry is made into a database that contains additional information gathered during the process.
+            </description>
+            <screenshots text="Screenshots">
+                <screenshot lg="Screenshots/COUPON_SignUp.jpg" sm="Screenshots/COUPON_SignUp_H150.jpg"/>
+                <screenshot lg="Screenshots/COUPON_SignedUp.jpg" sm="Screenshots/COUPON_SignedUp_H150.jpg"/>
+                <screenshot lg="Screenshots/COUPON_CustomerEmail.jpg" sm="Screenshots/COUPON_CustomerEmail_H150.jpg"/>
+                <screenshot lg="Screenshots/COUPON_AdminEmail.jpg" sm="Screenshots/COUPON_AdminEmail_H150.jpg"/>
+                <screenshot lg="Screenshots/COUPON_Database.jpg" sm="Screenshots/COUPON_Database_H150.jpg"/>
+            </screenshots>
+        </project>
+
+        <project>
+            <title>WordSoap.com</title>
+            <demo url="http://www.WordSoap.com" text="Website" />
+            <position>Architect, Developer</position>
+            <client url="http://www.WordSoap.com" text="WordSoap LLC" />
+            <date>2011</date>
+            <technologies>C#, ASP.NET, Javascript</technologies>
+            <methodologies></methodologies>
+            <description>
+                eCommunication Privacy
+            </description>
+            <screenshots text="Screenshots">
+                <screenshot lg="Screenshots/WORDSOAP_Demo.gif" sm="Screenshots/WORDSOAP_Demo_H150.gif"/>
+                <screenshot lg="Screenshots/WORDSOAP_Scramble.gif" sm="Screenshots/WORDSOAP_Scramble_H150.gif"/>
+                <screenshot lg="Screenshots/WORDSOAP_UnScramble.gif" sm="Screenshots/WORDSOAP_UnScramble_H150.gif"/>
+            </screenshots>
+        </project>
+
+        <project>
+            <title>BJIFurniture.com</title>
+            <demo url="http://www.BJIFurniture.com" text="Website" />
+            <position>Architect, Database Design, Developer, User Interface &amp; Graphic Designer</position>
+            <client url="http://www.BJI.com" text="Brown Jordan Internation" />
+            <date>2011</date>
+            <technologies>C#, ASP.NET, ADO.NET, LINQ, EF, SQL Server</technologies>
+            <methodologies>MVC 2</methodologies>
+            <description>
+                This is a customer support website that provides product registration, product assembly instructions, order status and general company information to Brown Jordan and Winston Furniture customers.
+                Documents accessible through this website are organized using the Product Data Management System (PDA).
+            </description>
+            <screenshots text="Screenshots">
+                <screenshot lg="Screenshots/BJIFURN_AboutUs.jpg" sm="Screenshots/BJIFURN_AboutUs_H150.jpg"/>
+                <screenshot lg="Screenshots/BJIFURN_Registration.jpg" sm="Screenshots/BJIFURN_Registration_H150.jpg"/>
+                <screenshot lg="Screenshots/BJIFURN_Assembly.jpg" sm="Screenshots/BJIFURN_Assembly_H150.jpg"/>
+                <screenshot lg="Screenshots/BJIFURN_PDADocuments.jpg" sm="Screenshots/BJIFURN_PDADocuments_H150.jpg"/>
+            </screenshots>
+        </project>
+
+        <project>
+            <title>LaZBoyOutdoorSelect.com</title>
+            <demo url="http://lazboyoutdoorselect.com/" text="Website" />
+            <position>Architect, Developer</position>
+            <client url="http://www.BJI.com" text="Brown Jordan Internation" />
+            <date>2009</date>
+            <technologies>C#, ASP.NET, SQL Server</technologies>
+            <methodologies>Relational, nTier</methodologies>
+            <description>
+                Product catalog website which displays dynamic data and images.
+            </description>
+            <screenshots text="Screenshots">
+                <screenshot lg="Screenshots/LAZ_Home.jpg" sm="Screenshots/LAZ_Home_H150.jpg"/>
+                <screenshot lg="Screenshots/LAZ_Details.jpg" sm="Screenshots/LAZ_Details_H150.jpg"/>
+            </screenshots>
+        </project>
+
+        <project>
+            <title>BJI.com</title>
+            <demo url="http://www.bji.com/" text="Website" />
+            <position>Architect, Developer, User Interface &amp; Graphic Designer</position>
+            <client url="http://www.BJI.com" text="Brown Jordan Internation" />
+            <date>2009</date>
+            <technologies>C#, ASP.NET</technologies>
+            <methodologies>MVC 3</methodologies>
+            <description>
+                Basic business card website.
+            </description>
+            <screenshots text="Screenshots">
+                <screenshot lg="Screenshots/BJICOM_Overview.jpg" sm="Screenshots/BJICOM_Overview_H150.jpg"/>
+            </screenshots>
+        </project>
+
+    </projects>
+
+
+    <objective>
+        To obtain a dynamic and challenging position as a developer / programmer with a creative and collaborative team.
+    </objective>
+
+    <summary id="1">
+        <paragraph>
+            Enthusiastic, creative, web developer with exceptional communication skills and the ability to learn and adapt quickly.
+        </paragraph>
+
+        <paragraph>
+        Architected and developed object oriented web based solutions that directly address
+        workflow, business processes and customer to product introduction.
+        </paragraph>
+        
+        <paragraph>
+        Extensive experience developing and supporting inward and outward facing enterprise
+        level portal solutions as well as public facing data driven on premises and cloud based solutions.
+        </paragraph>
+
+        <paragraph>
+        Experienced in application design, project development, testing &amp; documentation, data administration,
+        staff/vendor management, training, and digital imagery.
+        </paragraph>
+        
+        <paragraph>
+        Highly organized, with a proven ability to effectively prioritize work, completing multiple concurrent tasks in a
+        timely and professional manner.
+        </paragraph>        
+    </summary>
+
+
+    <skills>
+        <languages>
+          <language>ADO.NET (Pro)</language>
+          <language>AngularJS (Novice)</language>
+          <language>ASP.NET MVC (Skilled)</language>
+          <language>ASP.NET WebForms (Pro)</language>
+          <language>C (Experienced)</language>
+          <language>C# (Pro)</language>
+          <language>CSS (Skilled)</language>
+          <language>D3JS (Novice)</language>
+          <language>EntityFramework (Skilled)</language>
+          <language>ExpressJS (Novice)</language>
+          <language>Git (Experienced)</language>
+          <language>HTML/5 (Pro)</language>
+          <language>Java (Novice)</language>
+          <language>Javascript (Skilled)</language>
+          <language>JQuery (Skilled)</language>
+          <language>JSON (Skilled)</language>
+          <language>NodeJS (Novice)</language>
+          <language>Windows PowerShell (Novice)</language>
+          <language>Python (Novice)</language>
+          <language>R (Novice)</language>
+          <language>WCF (Experienced)</language>
+          <language>XML (Skilled)</language>
+          <language>XSLT (Skilled)</language>
+        </languages>
+        <applications>
+          <application>Arduino Sketch</application>
+          <application>IDLE</application>
+          <application>IIS</application>
+          <application>Git</application>
+          <application>Macromedia FireWorks</application>
+          <application>MongoDB</application>
+          <application>MS PowerShell</application>
+          <application>MS SQL Server</application>
+          <application>NotePad++</application>
+          <application>R Studio</application>
+          <application>Sublime Text</application>
+          <application>Visual Studio (05,08,10,12,13)</application>
+          <application>Web Storm</application>
+          <application>Xamarin Studio</application>
+        </applications>
+        <DomainExperience>
+            <item>Finance</item>
+            <item>Accounting</item>
+            <item>Human Resources</item>
+        </DomainExperience>
+    </skills>
+
+    <experience>
+        <job>
+            <appointment>Web Developer</appointment>
+            <employer>Brown Jordan International</employer>
+            <client>Brown Jordan International</client>
+            <location>St. Augustine, FL</location>
+            <dates>Oct.2007 - Present</dates>
+            <description>
+                Brown Jordan International is a leading designer, manufacturer and marketer of quality home 
+                furnishings and contract furnishings, selling a full range of products.
+                
+
+                Brown Jordan International is privately held and is vertically integrated with numerous manufacturing facilities and sales offices 
+                located both domestically and internationally throughout the United States, Mexico, China, India, Thailand, 
+                Indonesia and Vietnam. 
+                
+                
+            </description>
+            <bulletPoint>Website development</bulletPoint>
+            <bulletPoint>LOB application development</bulletPoint>
+            <bulletPoint>Data administration</bulletPoint>
+            <bulletPoint>SharePoint installation, configuration and administration</bulletPoint>
+        </job>
+        <job>
+            <appointment>MOSS 2007 Administration</appointment>
+            <employer>Sony Electronics for TEK Systems IT Staffing</employer>
+            <client></client>
+            <location>Rancho Bernardo, California</location>
+            <dates>Apr.2007 - Aug.2007</dates>
+            <description>
+                Sony Corporation (NYSE:SNE) and its consolidated subsidiaries are engaged in
+                the developing, designing, manufacturing, and selling of various kinds of
+                electronic equipment, instruments, and devices for consumer and industrial
+                markets. Sony develops, produces, manufactures, and markets home- use game
+                consoles and software. The Company's principal manufacturing facilities are
+                located in Japan, the United States of America, Europe, and Asia.
+            </description>
+            <bulletPoint>SharePoint 2007 installation and configuration</bulletPoint>
+            <bulletPoint>SharePoint 2007 Site Collection topology design and implementation (Large Farm)</bulletPoint>
+            <bulletPoint>Custom URL's and DNS redirection</bulletPoint>
+            <bulletPoint>Access and permissions administration</bulletPoint>
+            <bulletPoint>MS Project Server 2007 installation</bulletPoint>
+        </job>
+        <job>
+            <appointment>SharePoint 2003 Admin. / App. Developer (C#, ASP.NET, XML)</appointment>
+            <employer>College Loan Corporation</employer>
+            <client>Finance, Accounting, Human Resources</client>
+            <location>Rancho Bernardo, California</location>
+            <dates>Oct. 2004 - Apr. 2007</dates>
+            <description>
+                College Loan Corporation, based in San Diego, is the nation’s seventh largest
+                student loan provider. CLC has more than $9 billion in student loans to more
+                than 400,000 students and their families, making CLC the fastest-growing
+                top-tier Stafford and PLUS Loan provider in the country.
+            </description>
+            <bulletPoint>Application development - C#, ASP.NET, ADO.NET, XML, XSLT, T-SQL </bulletPoint>
+            <bulletPoint>Business process analysis and application design</bulletPoint>
+            <bulletPoint>SharePoint 2003 installation, configuration, customization, and administration</bulletPoint>
+            <bulletPoint>User support and training</bulletPoint>
+            <bulletPoint>Branding, U.I. and graphic design</bulletPoint>
+        </job>
+        <job>
+            <appointment>PeopleSoft Portal Administration</appointment>
+            <employer>Corinthian Colleges</employer>
+            <client>Corporate I.T.</client>
+            <location>Santa Ana, California</location>
+            <dates>Sept. 2003 - Oct. 2004</dates>
+            <description>
+                Corinthian Colleges, Inc. (NASDAQ - COCO) is one of the largest for-profit,
+                post-secondary education companies in the United States, with more than 43,200
+                students enrolled and operates 69 colleges with two training centers in 21
+                states, including 18 in California and 12 in Florida. Corinthian serves a
+                large and growing segment of the population seeking to acquire career-oriented
+                education.
+            </description>
+            <bulletPoint>PeopleSoft Enterprise Portal customization and administration</bulletPoint>
+            <bulletPoint>Application development - C#, ASP.NET, ADO.NET</bulletPoint>
+            <bulletPoint>SharePoint 2003 installation, customization and administration</bulletPoint>
+            <bulletPoint>Custom PS Portal security solutions</bulletPoint>
+            <bulletPoint>SSO with CRM, SFO, HR, Portal integration</bulletPoint>
+            <bulletPoint>Version control, testing, and documentation</bulletPoint>
+            <bulletPoint>Video On Demand</bulletPoint>
+            <bulletPoint>ASP.NET 1.x / C# WebParts</bulletPoint>
+            <bulletPoint>User support and training</bulletPoint>
+            <bulletPoint>Branding, U.I. and graphic design</bulletPoint>
+        </job>
+        <job>
+            <appointment>Web Developer</appointment>
+            <employer>Digital Spike</employer>
+            <client></client>
+            <location>San Diego, California</location>
+            <dates>Dec. 1999 - Sept. 2003</dates>
+            <description>Digital Spike is a privately held web development company.</description>
+            <url>www.DigitalSpike.com</url>
+            <bulletPoint>Classic ASP Website Development</bulletPoint>
+        </job>
+        <job>
+            <appointment>Senior Digital Effects Programmer / Developer</appointment>
+            <employer>* W4 &amp; 1099 relationships with multiple facilities in the greater LA area and Europe over the course of ten years.</employer>
+            <client></client>
+            <location>Hollywood, California</location>
+            <dates>1990 - 1999</dates>
+            <description></description>
+            <url></url>
+            <bulletPoint>Developed CGI (Computer Graphic Imagery) projects for top Ad Agencies, Television Networks (ABC, NBC, CBS) as well as Editorial and Production companies at all the major post production facilities in the greater Los Angeles area.</bulletPoint>
+            <bulletPoint>Simultaneously operated on both open, and closed, hardware and software platforms</bulletPoint>
+            <bulletPoint>Supervised multimillion dollar CGI projects for film and television</bulletPoint>
+            <bulletPoint>Pre-production VFX Project cost &amp; technical analysis</bulletPoint>
+            <bulletPoint>Formed 'key' vendor alliances to streamline productivity and cut cost</bulletPoint>
+            <bulletPoint>Produced and administrated project data</bulletPoint>
+            <bulletPoint>Managed personnel and project resources </bulletPoint>
+            <bulletPoint>Designed and implemented training courses for new employees</bulletPoint>
+            <bulletPoint>Assisted hardware and software manufacturers on product development</bulletPoint>
+            <bulletPoint>Represented equipment and software manufacturers at trade shows in the USA and around the world</bulletPoint>
+            <bulletPoint>Employed as a consultant &amp; director in various countries around the world</bulletPoint>
+            <bulletPoint>Award winning VFX design</bulletPoint>
+            <bulletPoint>Film credits</bulletPoint>
+        </job>
+    </experience>
+
+    <education>
+        <bulletPoint>Palomar Junior College AA Degree (Incomplete)</bulletPoint>
+        <bulletPoint>Digital Effects Programming Apprenticeship - Varitel Video Hollywood</bulletPoint>
+    </education>
+
+    <training>
+        <bulletPoint>SharePoint 2003 Web Part Development - 2 Days</bulletPoint>
+        <bulletPoint>ASP.NET I - 6 Days (UCSD Extension)</bulletPoint>
+        <bulletPoint>ASP.NET II - 6 Days (UCSD Extension)</bulletPoint>
+        <bulletPoint>ADO.NET - 6 Days (UCSD Extension)</bulletPoint>
+        <bulletPoint>Windows Presentation Foundation - 6 Days (UCSD Extension)</bulletPoint>
+        <bulletPoint>MCTS &amp; MCPD (in progress)</bulletPoint>
+    </training>
+
+    <books>
+
+      <book isbn="" publisher="" url=""></book>
+        
+      <book isbn="978-0321573513" publisher="" url="">Algorithms (4th Edition)</book>
+      <book isbn="978-0596516246" publisher="" url="">Algorithms in a Nutshell</book>
+      <book isbn="978-0470097779" publisher="" url="Wrox">Amazon.com Mashups</book>
+      <book isbn="978-1449313876" publisher="" url="O'Reilly">Arduino Cookbook</book>
+      <book isbn="978-0764584640" publisher="Wrox" url="">ASP.NET 2.0 Website Programming: Problem - Design - Solution</book>
+      <book isbn="978-0735622067" publisher="MS Press" url="">ADO.NET 2.0 Core Reference</book>
+      <book isbn="978-0596101404" publisher="O'Reilly" url="">ADO.NET 3.5 Cookbook</book>
+      <book isbn="0-672-32868-2" publisher="Sams" url="">Ajax in 10 Minutes</book>
+      <book isbn="978-0470109625" publisher="Wrox" url="">ASP.NET 2.0 AJAX</book>
+      <book isbn="0-7645-9677-2" publisher="Wrox" url="">ASP.NET 2.0 XML</book>
+      <book isbn="978-0672335648" publisher="Sams" url="">ASP.NET 3.5 Unleashed</book>       
+      <book isbn="978-0672331121" publisher="Sams" url="">ASP.NET 4 Unleashed</book>
+      <book isbn="978-0470433997" publisher="Wrox" url="">ASP.NET MVC 1.0</book>
+
+      <book isbn="1-59059-468-1" publisher="Apress" url="">Beginning ASP.NET 2.0 E-Commerce in C# 2005</book>
+      <book isbn="978-0764574894" publisher="Wrox" url="">Beginning Regular Expressions</book>
+      <book isbn="978-1430218296" publisher="Apress" url="">Beginning Spatial with SQL Server 2008</book>
+      <book isbn="978-0596807733" publisher="" url="">Building Wireless Sensor Networks</book>
+
+      <book isbn="978-0596004361" publisher="" url="">C Pocket Reference</book>
+      <book isbn="0-7821-4183-8" publisher="Sybex" url="">C# Database Programming (ADO.NET)</book>
+      <book isbn="978-0596527730" publisher="O'Reilly" url="">C# 3.0 Design Patterns</book>
+      <book isbn="0596519222" publisher="O'Reilly" url="">C# 3.0 Pocket Reference</book>
+      <book isbn="978-1449394011" publisher="O'Reilly" url="">C# 4.0 Pocket Reference</book>
+      <book isbn="978-1449320171" publisher="O'Reilly" url="">C# 5.0 Pocket Reference</book>
+      <book isbn="978-0735619302" publisher="Microsoft Press" url="">C# Programmer's Cookbook</book>
+      <book isbn="978-1449367565" publisher="" url="">Concurrency in C# Cookbook</book>
+      <book isbn="978-0321719638" publisher="Peachpit" url="">CSS3</book>
+      <book isbn="978-0596007775" publisher="O'Reilly" url="">CSS Pocket Reference</book>
+
+      <book isbn="978-1449364939" publisher="" url="">Data Structures and Algorithms with JavaScript</book>
+      <book isbn="978-1935182504" publisher="Manning" url="">Dependency Injection in .NET</book>
+      <book isbn="978-0735656062" publisher="Microsoft Press" url="">Developing Applications for the Cloud on the Microsoft Windows Azure Platform (Patterns and Practices)</book>
+      <book isbn="978-1430224150" publisher="" url="">Dive Into Python </book>
+        
+      <book isbn="9781430117038" publisher="" url="">Entity Framework 4.0 Recipes</book>
+      <book isbn="0-201-74095-8" publisher="Addison" url="">Essential XML Quick Reference</book>
+      <book isbn="978-1590596326" publisher="Apress" url="">Expert C# 2005 Business Objects</book>
+
+      <book isbn="978-1449360726" publisher="" url="">Functional JavaScript</book>
+      
+      <book isbn="978-1449325862" publisher="" url="">Git Pocket Guide</book>
+        
+      <book isbn="978-159059-9549" publisher="Apress" url="">Illustrated C# 2008</book>
+      <book isbn="978-1449339739" publisher="" url="">Interactive Data Visualization for the Web</book>
+      <book isbn="0-7356-1560-8" publisher="MS Press" url="">Internet Information Services (IIS) 6.0</book>
+      <book isbn="0-7356-2364-3" publisher="MS Press" url="">Internet Information Services (IIS) 7.0</book>
+      <book isbn="978-1430224693" publisher="Apress" url="">Introducing Windows Azure</book>
+      <book isbn="978-0735616486" publisher="Microsoft Press" url="">Inside C#, Second Edition</book>
+
+      <book isbn="978-0596806750" publisher="" url="">JavaScript Patterns</book>
+      <book isbn="978-0596517748" publisher="" url="">JavaScript: The Good Parts</book>
+      <book isbn="978-0596514198" publisher="O'Reilly" url="">Java Pocket Reference</book>
+      <book isbn="978-0980576856" publisher="sitepoint" url="">jQuery - Novice to Ninja</book>
+      <book isbn="978-1449397227" publisher="O'Reilly" url="">jQuery Pocket Reference</book>
+
+      <book isbn="978-0321719928" publisher="Addison-Wesley" url="">Learning MonoTouch: A Hands-On Guide to Building iOS Applications with C# and .NET</book>
+      <book isbn="978-0321910578" publisher="" url="">Learning Node.js</book>
+      <book isbn="978-1449355739" publisher="" url="">Learning Python, 5th Edition</book>
+      <book isbn="978-0596519247" publisher="O'Reilly" url="">LINQ Pocket Reference</book>
+      <book isbn="978-0596006280" publisher="" url="">Linux Pocket Guide</book>
+
+      <book isbn="978-1430244882" publisher="Apress" url="">Metro Revealed</book>
+      <book isbn="978-1849680981" publisher="Packt" url="">Microsoft Azure: Enterprise Application Development</book>
+      <book isbn="978-0470889633" publisher="Wrox" url="">Microsoft Business Intelligence</book>
+      <book isbn="978-1849680806" publisher="Packt" url="">Microsoft SQL Azure Enterprise Application Development</book>
+      <book isbn="978-1849682220" publisher="Packt" url="">Microsoft Windows Azure Development Cookbook</book>
+      <book isbn="978-1449367619" publisher="" url="">Mining the Social Web</book>
+      <book isbn="978-1449344689" publisher="" url="">MongoDB: The Definitive Guide</book>
+      <book isbn="978-1935182870" publisher="" url="">MongoDB in Action</book>
+      <book isbn="978-0596514266" publisher="O'Reilly" url="">MySQL Pocket Reference</book>
+
+      <book isbn="978-1617290572" publisher="" url="">Node.js in Action</book>
+        
+      <book isbn="978-1590597248" publisher="Apress" url="">Pro ASP.NET 2.0 E-Commerce in C# 2005</book>
+      <book isbn="978-1590594964" publisher="Apress" url="">Pro ASP.NET 2.0 in C# 2005</book> 
+      <book isbn="1-590595122" publisher="" url="">Pro ADO.NET 2.0</book>
+      <book isbn="978-1430216148" publisher="Apress" url="">Pro ADO.NET Data Services: Working with RESTful Data</book>
+      <book isbn="1-590596706" publisher="" url="">Pro AJAX and the .NET 2.0 Platform</book>
+      <book isbn="978-1430210078" publisher="" url="">Pro ASP.NET MVC Framework</book>
+      <book isbn="1-59059-724-9" publisher="Apress" url="">Pro ASP.NET 2.0 E-Commerce in C# 2005</book>
+      <book isbn="978-1430228868" publisher="Apress" url="">Pro ASP.NET MVC 2 Framework</book>
+      <book isbn="978-1430234043" publisher="Apress" url="">Pro ASP.NET MVC 3 Framework</book>
+      <book isbn="978-1430244615" publisher="Apress" url="">Pro Javascript for Web Apps</book>
+      <book isbn="978-1590597897" publisher="Apress" url="">Pro LINQ in C# 2008</book>
+      <book isbn="978-1430234913" publisher="Apress" url="">Pro Spatial with SQL Server 2012</book>
+      <book isbn="978-1430229612" publisher="Apress" url="">Pro SQL Azure</book>
+      <book isbn="978-1590599839" publisher="Apress" url="">Pro SQL Server 2008 XML</book>
+
+      <book isbn="978-1430264484" publisher="" url="">Pro AngularJS</book>
+      <book isbn="978-0596006990" publisher="O'Reilly" url="">Programming C#: Building .NET Applications with C#</book>        
+      <book isbn="978-0596520281" publisher="O'Reilly" url="">Programming the Entity Framework</book>
+      <book isbn="978-0596807269" publisher="O'Reilly" url="">Programming Entity Framework: Building Data Centric Apps with the ADO.NET Entity Framework</book> 
+      <book isbn="978-1449312947" publisher="O'Reilly" url="">Programming Entity Framework: Code First</book>
+      <book isbn="978-0735622067" publisher="Apress" url="">Programming Microsoft ADO.NET 2.0 Core Reference</book>
+      <book isbn="978-0596801977" publisher="O'Reilly" url="">Programming Windows Azure: Programming the Microsoft Cloud </book>
+      <book isbn="978-0596805487" publisher="O'Reilly" url="">Programming WCF Services: Mastering WCF and the Azure AppFabric Service Bus</book>
+      <book isbn="978-0596526993" publisher="O'Reilly" url="">Programming WCF Services</book>
+      <book isbn="978-7449313876" publisher="" url="">Python Cookbook</book>
+      <book isbn="978-0596158088" publisher="" url="">Python Pocket Reference</book>
+
+      <book isbn="978-0321888037" publisher="" url="">R for Everyone: Advanced Analytics and Graphics</book>
+      <book isbn="978-1430266402" publisher="" url="">R Quick Syntax Reference</book>
+      <book isbn="978-0596-519209" publisher="O'Reilly" url="">RESTful .NET</book>
+      <book isbn="978-0672325663" publisher="Sams" url="">Regular Expressions in 10 Minutes</book>
+      <book isbn="978-0596514273" publisher="O'Reilly" url="">Regular Expressions Pocket Reference</book>
+        
+      <book isbn="978-0470131473" publisher="" url="">Search Engine Optimization with ASP.NET</book>
+      <book isbn="978-1890774448" publisher="Murach" url="">Servlets and JSP</book>
+      <book isbn="0-672-32128-9" publisher="Sams" url="">SQL in 10 Minutes</book>
+      <book isbn="1-55860-576-2" publisher="Morgan" url="">SQL for Smarties 2nd Edition</book>
+      <book isbn="0-596-52688-1" publisher="O'Reilly" url="">SQL Pocket Guide</book>
+      <book isbn="1-931841-45-4" publisher="Premier" url="">SQL Tips &amp; Techniques</book>
+        
+      <book isbn="0-7645-8048-5" publisher="IDG Books" url="">Transact-SQL (7.0)</book>
+        
+      <book isbn="978-1430223832" publisher="Apress" url="">Ultra-Fast ASP.NET: Build Ultra-Fast and Ultra-Scalable web sites using ASP.NET and SQL Server</book>
+      <book isbn="978-0672326400" publisher="Sams" url="">UML in 24 Hours</book>
+        
+      <book isbn="978-1118021958" publisher="Wrox" url="">Visual Studio LightSwitch Development</book>
+      <book isbn="0-735615543" publisher="MS Press" url="">Visual C# Language Reference</book>
+
+      <book isbn="978-1849681148" publisher="" url="">WCF 4.0 Multi-tier Services Development with LINQ to Entities</book>
+      <book isbn="978-1430224792" publisher="Apress" url="">Windows Azure Platform</book>
+      <book isbn="978-0735625952" publisher="" url="">Windows PowerShell 2.0 Administrators Pocket Consultant</book>
+      <book isbn="978-1449320966" publisher="" url="">Windows PowerShell Pocket Reference</book>
+      <book isbn="978-1118112571" publisher="Wrox" url="">Working with NHibernate 3.0</book>
+        
+      <book isbn="978-0596007119" publisher="O'Reilly" url="">XML Hacks: 100 Industrial-Strength Tips and Tools</book>
+      <book isbn="0-596-00133-9" publisher="O'Reilly" url="">XML Pocket Reference</book>
+      <book isbn="978-0596009748" publisher="O'Reilly" url="">XSLT Cookbook: Solutions and Examples for XML and XSLT Developers</book>
+        
+    </books>
+
+
+
+</resume>
